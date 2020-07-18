@@ -1,0 +1,16 @@
+body {
+    max-width: 1200px;
+    height: 1200px;
+}
+
+#box {
+    width: 50%;
+    height: 50%;
+    background-color: pink;
+    border: 4px solid purple;
+    position: absolute;
+}
+
+button {
+    float:right;
+}
